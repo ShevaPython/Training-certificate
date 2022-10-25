@@ -1,2 +1,2 @@
-# Training-certificate
-training certificates
+# Training-certificate of Python
+training certificates of Python
